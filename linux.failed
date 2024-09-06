@@ -1,0 +1,295 @@
+{
+  "Package": "scran",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731833245",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "OmnipathR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731837979",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "BgeeDB",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731829001",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "CaDrA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731830537",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "escape",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10713246995",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Cardinal",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10694465413",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "TargetSearch",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10675989439",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "DMRcate",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10675984273",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "systemPipeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650602745",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Rcollectl",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650601345",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "SVMDO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10641984333",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "rawDiag",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10589578852",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "DOSE",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10571061621",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Pirat",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10571064483",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "enrichplot",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10552925216",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "miRspongeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10552926633",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ontoProc",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/9755363193",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "sesame",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10535272145",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "rawrr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10535271087",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MsBackendRawFileReader",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10535073670",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "POMA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519278326",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "DEqMS",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519273335",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "microbiomeMarker",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10501214586",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ClustIRR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10428869595",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "psygenet2r",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362998187",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "gemma.R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10313045552",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "eisaR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295324825",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "PolySTest",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731995743",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "GEOquery",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519274000",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MsCoreUtils",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10659770633",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "EpiCompare",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642103281",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "faers",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10518983045",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "dreamlet",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10446342811",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "scp",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10415291974",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "batchelor",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10415160541",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "QFeatures",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10675974577",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "BiocSingular",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10660040688",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "CATALYST",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10571244677",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "AlphaMissenseR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10553038509",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "rDGIdb",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10464486944",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "beadarray",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10429166690",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "variancePartition",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363255591",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "omicsViewer",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362992326",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "glmGamPoi",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10345456416",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "APL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10336715311",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "BiocStyle",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10328340698",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "oligo",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10660449280",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "CytoPipeline",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10571244015",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "cypress",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10552899807",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MSstatsTMT",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10447302547",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MSnbase",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10380650022",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "tidybulk",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363130579",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "msPurity",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10312895649",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "splatter",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731995736",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "BSgenomeForge",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10346297993",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "DeProViR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642538601",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "dar",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609596916",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "CTexploreR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10608229251",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Moonlight2R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10536165311",
+  "_linuxdevel": "failure"
+}
