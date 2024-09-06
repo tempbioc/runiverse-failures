@@ -1,0 +1,40 @@
+name: Weekly Failure Report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
+
+jobs:
+  generate-reports:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Curl API json report
+      run: curl https://bioc.r-universe.dev/api/packages/ > bioc.json
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Run jq commands for WASM
+      run: jq '.[] | select(._wasmbinary == "failure") | {Package, _buildurl, _wasmbinary}' bioc.json > wasm.failed
+
+    - name: Run jq commands for macOS
+      run: jq '.[] | select(._macbinary == "failure") | {Package, _buildurl, _macbinary}' bioc.json > mac.failed
+
+    - name: Run jq commands for Windows
+      run: jq '.[] | select(._winbinary == "failure") | {Package, _buildurl, _winbinary}' bioc.json > win.failed
+
+    - name: Run jq commands for Linux
+      run: jq '.[] | select(._linuxdevel == "failure") | {Package, _buildurl, _linuxdevel}' bioc.json > linux.failed
+
+    - name: Commit and push failure reports
+      run: |
+        git config user.name "github-actions"
+        git config user.email "actions@github.com"
+        git add .
+        git commit -m "Add failure reports"
+        git push origin main
