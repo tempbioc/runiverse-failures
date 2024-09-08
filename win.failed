@@ -1,4 +1,9 @@
 {
+  "Package": "POMA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748210978",
+  "_winbinary": "failure"
+}
+{
   "Package": "standR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731833616",
   "_winbinary": "failure"
@@ -84,11 +89,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "POMA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519278326",
-  "_winbinary": "failure"
-}
-{
   "Package": "DEqMS",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519273335",
   "_winbinary": "failure"
@@ -140,7 +140,7 @@
 }
 {
   "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295324825",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304841",
   "_winbinary": "failure"
 }
 {
@@ -175,7 +175,7 @@
 }
 {
   "Package": "immunogenViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295326016",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748203826",
   "_winbinary": "failure"
 }
 {
@@ -240,7 +240,7 @@
 }
 {
   "Package": "tximeta",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295301713",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304968",
   "_winbinary": "failure"
 }
 {

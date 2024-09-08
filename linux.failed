@@ -1,4 +1,9 @@
 {
+  "Package": "POMA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748210978",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "scran",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731833245",
   "_linuxdevel": "failure"
@@ -99,11 +104,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "POMA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519278326",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "DEqMS",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519273335",
   "_linuxdevel": "failure"
@@ -130,7 +130,7 @@
 }
 {
   "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295324825",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304841",
   "_linuxdevel": "failure"
 }
 {
@@ -151,6 +151,11 @@
 {
   "Package": "EpiCompare",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642103281",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "immunogenViewer",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748203826",
   "_linuxdevel": "failure"
 }
 {

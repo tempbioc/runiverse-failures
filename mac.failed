@@ -1,4 +1,14 @@
 {
+  "Package": "SingleR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10520285933",
+  "_macbinary": "failure"
+}
+{
+  "Package": "POMA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748210978",
+  "_macbinary": "failure"
+}
+{
   "Package": "beachmat",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731827884",
   "_macbinary": "failure"
@@ -31,11 +41,6 @@
 {
   "Package": "ORFik",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10694468984",
-  "_macbinary": "failure"
-}
-{
-  "Package": "updateObject",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10675990450",
   "_macbinary": "failure"
 }
 {
@@ -89,11 +94,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "POMA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519278326",
-  "_macbinary": "failure"
-}
-{
   "Package": "DEqMS",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519273335",
   "_macbinary": "failure"
@@ -130,7 +130,7 @@
 }
 {
   "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295324825",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304841",
   "_macbinary": "failure"
 }
 {
@@ -156,11 +156,6 @@
 {
   "Package": "BUSpaRse",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642103095",
-  "_macbinary": "failure"
-}
-{
-  "Package": "immunogenViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10295326016",
   "_macbinary": "failure"
 }
 {
@@ -254,6 +249,11 @@
   "_macbinary": "failure"
 }
 {
+  "Package": "tximeta",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304968",
+  "_macbinary": "failure"
+}
+{
   "Package": "oligo",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10660449280",
   "_macbinary": "failure"
@@ -266,11 +266,6 @@
 {
   "Package": "CytoPipeline",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10571244015",
-  "_macbinary": "failure"
-}
-{
-  "Package": "SingleR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10520285933",
   "_macbinary": "failure"
 }
 {
@@ -366,10 +361,5 @@
 {
   "Package": "iSEEpathways",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10608228979",
-  "_macbinary": "failure"
-}
-{
-  "Package": "SARC",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609314649",
   "_macbinary": "failure"
 }
