@@ -1,21 +1,41 @@
 {
-  "Package": "SingleR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10520285933",
+  "Package": "Spectra",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10859089462",
+  "_macbinary": "failure"
+}
+{
+  "Package": "OncoSimulR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10842456503",
   "_macbinary": "failure"
 }
 {
   "Package": "POMA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748210978",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823561493",
+  "_macbinary": "failure"
+}
+{
+  "Package": "TENxIO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823566888",
+  "_macbinary": "failure"
+}
+{
+  "Package": "scDblFinder",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823562793",
+  "_macbinary": "failure"
+}
+{
+  "Package": "spicyR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10785150410",
+  "_macbinary": "failure"
+}
+{
+  "Package": "OmnipathR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10758334993",
   "_macbinary": "failure"
 }
 {
   "Package": "beachmat",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731827884",
-  "_macbinary": "failure"
-}
-{
-  "Package": "OmnipathR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731837979",
   "_macbinary": "failure"
 }
 {
@@ -51,11 +71,6 @@
 {
   "Package": "Rcollectl",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650601345",
-  "_macbinary": "failure"
-}
-{
-  "Package": "TENxIO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10641984807",
   "_macbinary": "failure"
 }
 {
@@ -119,13 +134,28 @@
   "_macbinary": "failure"
 }
 {
+  "Package": "enrichViewNet",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544403",
+  "_macbinary": "failure"
+}
+{
   "Package": "psygenet2r",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362998187",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544352",
+  "_macbinary": "failure"
+}
+{
+  "Package": "xcms",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10766228378",
+  "_macbinary": "failure"
+}
+{
+  "Package": "ginmappeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10757504221",
   "_macbinary": "failure"
 }
 {
   "Package": "gemma.R",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10313045552",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10756678773",
   "_macbinary": "failure"
 }
 {
@@ -144,11 +174,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "Spectra",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650547049",
-  "_macbinary": "failure"
-}
-{
   "Package": "EpiCompare",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642103281",
   "_macbinary": "failure"
@@ -159,8 +184,8 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "OncoSimulR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10626506388",
+  "Package": "immunogenViewer",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748203826",
   "_macbinary": "failure"
 }
 {
@@ -169,13 +194,8 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "concordexR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10519104090",
-  "_macbinary": "failure"
-}
-{
-  "Package": "faers",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10518983045",
+  "Package": "phantasusLite",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10837229508",
   "_macbinary": "failure"
 }
 {
@@ -225,27 +245,27 @@
 }
 {
   "Package": "variancePartition",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363255591",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823821777",
   "_macbinary": "failure"
 }
 {
   "Package": "omicsViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362992326",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544346",
   "_macbinary": "failure"
 }
 {
   "Package": "glmGamPoi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10345456416",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10804666358",
   "_macbinary": "failure"
 }
 {
   "Package": "APL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10336715311",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10785326917",
   "_macbinary": "failure"
 }
 {
   "Package": "BiocStyle",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10328340698",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10765669268",
   "_macbinary": "failure"
 }
 {
@@ -284,13 +304,23 @@
   "_macbinary": "failure"
 }
 {
+  "Package": "MetaboAnnotation",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10858902599",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MSnbase",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10858997537",
+  "_macbinary": "failure"
+}
+{
   "Package": "tidybulk",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363130579",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823821720",
   "_macbinary": "failure"
 }
 {
   "Package": "msPurity",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10312895649",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10756678534",
   "_macbinary": "failure"
 }
 {
@@ -315,17 +345,12 @@
 }
 {
   "Package": "BSgenomeForge",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10346297993",
-  "_macbinary": "failure"
-}
-{
-  "Package": "mosdef",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10676105654",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10805328846",
   "_macbinary": "failure"
 }
 {
   "Package": "multistateQTL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10607807824",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10805789037",
   "_macbinary": "failure"
 }
 {
@@ -356,10 +381,5 @@
 {
   "Package": "ggsc",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609159499",
-  "_macbinary": "failure"
-}
-{
-  "Package": "iSEEpathways",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10608228979",
   "_macbinary": "failure"
 }

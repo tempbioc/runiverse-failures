@@ -1,16 +1,31 @@
 {
+  "Package": "mosdef",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10859087744",
+  "_winbinary": "failure"
+}
+{
   "Package": "POMA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748210978",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823561493",
+  "_winbinary": "failure"
+}
+{
+  "Package": "BSgenome",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10785144968",
+  "_winbinary": "failure"
+}
+{
+  "Package": "scDblFinder",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823562793",
+  "_winbinary": "failure"
+}
+{
+  "Package": "OmnipathR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10758334993",
   "_winbinary": "failure"
 }
 {
   "Package": "standR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731833616",
-  "_winbinary": "failure"
-}
-{
-  "Package": "OmnipathR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731837979",
   "_winbinary": "failure"
 }
 {
@@ -26,11 +41,6 @@
 {
   "Package": "escape",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10713246995",
-  "_winbinary": "failure"
-}
-{
-  "Package": "Cardinal",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10694465413",
   "_winbinary": "failure"
 }
 {
@@ -114,28 +124,28 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "adverSCarial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10380807020",
+  "Package": "enrichViewNet",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544403",
   "_winbinary": "failure"
 }
 {
   "Package": "psygenet2r",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362998187",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544352",
   "_winbinary": "failure"
 }
 {
   "Package": "cfTools",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10336597761",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10785181472",
   "_winbinary": "failure"
 }
 {
   "Package": "xcms",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10328532054",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10766228378",
   "_winbinary": "failure"
 }
 {
   "Package": "gemma.R",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10313045552",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10756678773",
   "_winbinary": "failure"
 }
 {
@@ -174,18 +184,8 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "immunogenViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748203826",
-  "_winbinary": "failure"
-}
-{
   "Package": "spatialHeatmap",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10608228501",
-  "_winbinary": "failure"
-}
-{
-  "Package": "faers",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10518983045",
   "_winbinary": "failure"
 }
 {
@@ -215,27 +215,27 @@
 }
 {
   "Package": "variancePartition",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363255591",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823821777",
   "_winbinary": "failure"
 }
 {
   "Package": "omicsViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10362992326",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544346",
   "_winbinary": "failure"
 }
 {
   "Package": "glmGamPoi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10345456416",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10804666358",
   "_winbinary": "failure"
 }
 {
   "Package": "APL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10336715311",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10785326917",
   "_winbinary": "failure"
 }
 {
   "Package": "BiocStyle",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10328340698",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10765669268",
   "_winbinary": "failure"
 }
 {
@@ -264,8 +264,18 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "Rdisop",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10858803323",
+  "_winbinary": "failure"
+}
+{
+  "Package": "MSnbase",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10858997537",
+  "_winbinary": "failure"
+}
+{
   "Package": "tidybulk",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10363130579",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823821720",
   "_winbinary": "failure"
 }
 {
@@ -285,12 +295,7 @@
 }
 {
   "Package": "BSgenomeForge",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10346297993",
-  "_winbinary": "failure"
-}
-{
-  "Package": "BSgenome",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609456351",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10805328846",
   "_winbinary": "failure"
 }
 {
