@@ -1,4 +1,9 @@
 {
+  "Package": "systemPipeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10867719041",
+  "_winbinary": "failure"
+}
+{
   "Package": "mosdef",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10859087744",
   "_winbinary": "failure"
@@ -54,11 +59,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "systemPipeR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650602745",
-  "_winbinary": "failure"
-}
-{
   "Package": "Rcollectl",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650601345",
   "_winbinary": "failure"
@@ -90,7 +90,7 @@
 }
 {
   "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10535271087",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10951116043",
   "_winbinary": "failure"
 }
 {
@@ -109,18 +109,23 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "CleanUpRNAseq",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10969968572",
+  "_winbinary": "failure"
+}
+{
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10953681914",
+  "_winbinary": "failure"
+}
+{
   "Package": "AnnotationHub",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10464364713",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10933752793",
   "_winbinary": "failure"
 }
 {
   "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10428869595",
-  "_winbinary": "failure"
-}
-{
-  "Package": "ChIPpeakAnno",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10415290908",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10876807977",
   "_winbinary": "failure"
 }
 {
@@ -190,7 +195,12 @@
 }
 {
   "Package": "dreamlet",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10446342811",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10914974484",
+  "_winbinary": "failure"
+}
+{
+  "Package": "monaLisa",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10868459358",
   "_winbinary": "failure"
 }
 {
@@ -210,7 +220,7 @@
 }
 {
   "Package": "rDGIdb",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10464486944",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10933753401",
   "_winbinary": "failure"
 }
 {
@@ -255,12 +265,12 @@
 }
 {
   "Package": "VariantExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10500782725",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10968962777",
   "_winbinary": "failure"
 }
 {
   "Package": "MSstatsTMT",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10447302547",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10915778146",
   "_winbinary": "failure"
 }
 {
@@ -299,6 +309,11 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "SingleCellAlleleExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10878211928",
+  "_winbinary": "failure"
+}
+{
   "Package": "crisprShiny",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10554434935",
   "_winbinary": "failure"
@@ -321,6 +336,11 @@
 {
   "Package": "methodical",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609775122",
+  "_winbinary": "failure"
+}
+{
+  "Package": "PLSDAbatch",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10915778309",
   "_winbinary": "failure"
 }
 {

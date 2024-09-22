@@ -1,6 +1,11 @@
 {
   "Package": "matter",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10842455840",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10877021140",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "systemPipeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10867719041",
   "_linuxdevel": "failure"
 }
 {
@@ -59,11 +64,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "systemPipeR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650602745",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "Rcollectl",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10650601345",
   "_linuxdevel": "failure"
@@ -110,7 +110,7 @@
 }
 {
   "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10535271087",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10951116043",
   "_linuxdevel": "failure"
 }
 {
@@ -129,8 +129,13 @@
   "_linuxdevel": "failure"
 }
 {
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10953681914",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10428869595",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10876807977",
   "_linuxdevel": "failure"
 }
 {
@@ -175,17 +180,22 @@
 }
 {
   "Package": "dreamlet",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10446342811",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10914974484",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "monaLisa",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10868459358",
   "_linuxdevel": "failure"
 }
 {
   "Package": "scp",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10415291974",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10868543235",
   "_linuxdevel": "failure"
 }
 {
   "Package": "batchelor",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10415160541",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10868459332",
   "_linuxdevel": "failure"
 }
 {
@@ -205,12 +215,12 @@
 }
 {
   "Package": "rDGIdb",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10464486944",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10933753401",
   "_linuxdevel": "failure"
 }
 {
   "Package": "beadarray",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10429166690",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10877309305",
   "_linuxdevel": "failure"
 }
 {
@@ -255,7 +265,7 @@
 }
 {
   "Package": "MSstatsTMT",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10447302547",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10915778146",
   "_linuxdevel": "failure"
 }
 {
@@ -279,6 +289,11 @@
   "_linuxdevel": "failure"
 }
 {
+  "Package": "SingleCellAlleleExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10878211928",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "DeProViR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10642538601",
   "_linuxdevel": "failure"
@@ -286,6 +301,11 @@
 {
   "Package": "dar",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10609596916",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "PLSDAbatch",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10915778309",
   "_linuxdevel": "failure"
 }
 {
