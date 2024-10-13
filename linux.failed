@@ -1,16 +1,86 @@
 {
-  "Package": "iSEEfier",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11190010836",
+  "Package": "ClustIRR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11302270562",
   "_linuxdevel": "failure"
 }
 {
-  "Package": "singleCellTK",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10714665124",
+  "Package": "tripr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11302274864",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "pgxRpi",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11302304430",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "pRoloc",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11285724360",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "SingleMoleculeFootprinting",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11081312430",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "BgeeDB",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11285718700",
   "_linuxdevel": "failure"
 }
 {
   "Package": "ontoProc",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/9755363193",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11266842602",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "phantasus",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11247614314",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "methodical",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11247612441",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "APL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11227984468",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ginmappeR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11229482337",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "multistateQTL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11227987602",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "NormalyzerDE",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11208081102",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "DAPAR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11208076906",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "enrichplot",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11208078050",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "OmnipathR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11198565491",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "iSEEfier",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11190010836",
   "_linuxdevel": "failure"
 }
 {
@@ -34,23 +104,8 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "GSVA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11173407088",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "BiocFileCache",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11155290080",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "BSgenomeForge",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11155290806",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "BgeeDB",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11155289784",
   "_linuxdevel": "failure"
 }
 {
@@ -69,23 +124,8 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "monaLisa",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11118098397",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "OmnipathR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11089298196",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "DMRcate",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11080651181",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "velociraptor",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11064402499",
   "_linuxdevel": "failure"
 }
 {
@@ -111,11 +151,6 @@
 {
   "Package": "BiocSingular",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11020830296",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "APL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11020825800",
   "_linuxdevel": "failure"
 }
 {
@@ -159,23 +194,18 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "multistateQTL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11020864723",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "matter",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11020858339",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "systemPipeR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10867719041",
   "_linuxdevel": "failure"
 }
 {
+  "Package": "BSgenome",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11267998247",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "scran",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731833245",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11198508566",
   "_linuxdevel": "failure"
 }
 {
@@ -204,11 +234,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "enrichplot",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11025757514",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "miRspongeR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11025758881",
   "_linuxdevel": "failure"
@@ -234,23 +259,13 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10876807977",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "enrichViewNet",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544403",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10748304841",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11208408889",
   "_linuxdevel": "failure"
 }
 {
   "Package": "PolySTest",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731995743",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11198603761",
   "_linuxdevel": "failure"
 }
 {
@@ -261,6 +276,11 @@
 {
   "Package": "EpiCompare",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11099151817",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "immunogenViewer",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11209568666",
   "_linuxdevel": "failure"
 }
 {
@@ -284,11 +304,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "GeDi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11006694953",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "rDGIdb",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10933753401",
   "_linuxdevel": "failure"
@@ -305,22 +320,27 @@
 }
 {
   "Package": "variancePartition",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823821777",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11302499174",
   "_linuxdevel": "failure"
 }
 {
   "Package": "omicsViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10823544346",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11302304373",
   "_linuxdevel": "failure"
 }
 {
   "Package": "glmGamPoi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10804666358",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11285354331",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "goseq",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11285637846",
   "_linuxdevel": "failure"
 }
 {
   "Package": "BiocStyle",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10765669268",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11247369509",
   "_linuxdevel": "failure"
 }
 {
@@ -346,15 +366,5 @@
 {
   "Package": "MSstatsTMT",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10915778146",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "MSnbase",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10858997537",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "splatter",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/10731995736",
   "_linuxdevel": "failure"
 }
