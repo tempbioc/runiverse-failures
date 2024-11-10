@@ -1,4 +1,54 @@
 {
+  "Package": "SingleCellExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ClustIRR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752859389",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "beachmat.hdf5",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752858128",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "rawDiag",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861121",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Voyager",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752862317",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "SpatialFeatureExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861786",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "RegionalST",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735468370",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "rawrr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735467609",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MsBackendRawFileReader",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735466706",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "gDRcore",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11716028223",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "miaViz",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639475286",
   "_linuxdevel": "failure"
@@ -24,11 +74,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606009296",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "knowYourCG",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605568371",
   "_linuxdevel": "failure"
@@ -36,11 +81,6 @@
 {
   "Package": "enrichplot",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605564959",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "Voyager",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11607169085",
   "_linuxdevel": "failure"
 }
 {
@@ -59,6 +99,11 @@
   "_linuxdevel": "failure"
 }
 {
+  "Package": "scrapper",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11737073855",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "tidysbml",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606721416",
   "_linuxdevel": "failure"
@@ -66,6 +111,11 @@
 {
   "Package": "PolySTest",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605724152",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "MPAC",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11658890824",
   "_linuxdevel": "failure"
 }
 {
@@ -79,8 +129,8 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606009041",
+  "Package": "smoothclust",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11658890781",
   "_linuxdevel": "failure"
 }
 {
@@ -114,21 +164,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "RegionalST",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606208519",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "gDRcore",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589030222",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "gDR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589028036",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "SVMDO",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606656909",
   "_linuxdevel": "failure"
@@ -146,6 +181,11 @@
 {
   "Package": "BSgenomeForge",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11586956228",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "alabaster.vcf",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11717430460",
   "_linuxdevel": "failure"
 }
 {
@@ -174,11 +214,6 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "APL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11586493855",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "omicsViewer",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589961723",
   "_linuxdevel": "failure"
@@ -199,6 +234,11 @@
   "_linuxdevel": "failure"
 }
 {
+  "Package": "MuData",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11698013946",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "netZooR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11590009990",
   "_linuxdevel": "failure"
@@ -206,10 +246,5 @@
 {
   "Package": "benchdamic",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587113440",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589363174",
   "_linuxdevel": "failure"
 }
