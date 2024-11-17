@@ -1,11 +1,86 @@
 {
-  "Package": "SingleCellExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
+  "Package": "IRanges",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11588769597",
   "_macbinary": "failure"
 }
 {
-  "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752859389",
+  "Package": "BiocGenerics",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
+  "_macbinary": "failure"
+}
+{
+  "Package": "SpatialFeatureExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849753481",
+  "_macbinary": "failure"
+}
+{
+  "Package": "sparrow",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849751485",
+  "_macbinary": "failure"
+}
+{
+  "Package": "TENxIO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11830116216",
+  "_macbinary": "failure"
+}
+{
+  "Package": "PolySTest",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11830118742",
+  "_macbinary": "failure"
+}
+{
+  "Package": "mitch",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809999494",
+  "_macbinary": "failure"
+}
+{
+  "Package": "TFutils",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809998823",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MSnbase",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994610",
+  "_macbinary": "failure"
+}
+{
+  "Package": "rawDiag",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994842",
+  "_macbinary": "failure"
+}
+{
+  "Package": "rawrr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809995260",
+  "_macbinary": "failure"
+}
+{
+  "Package": "alabaster.base",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
+  "_macbinary": "failure"
+}
+{
+  "Package": "beachmat",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790079117",
+  "_macbinary": "failure"
+}
+{
+  "Package": "RegionalST",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790084444",
+  "_macbinary": "failure"
+}
+{
+  "Package": "scrapper",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11771486521",
+  "_macbinary": "failure"
+}
+{
+  "Package": "alabaster.spatial",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11761781234",
+  "_macbinary": "failure"
+}
+{
+  "Package": "SingleCellExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
   "_macbinary": "failure"
 }
 {
@@ -14,28 +89,8 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861121",
-  "_macbinary": "failure"
-}
-{
   "Package": "Voyager",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752862317",
-  "_macbinary": "failure"
-}
-{
-  "Package": "SpatialFeatureExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861786",
-  "_macbinary": "failure"
-}
-{
-  "Package": "RegionalST",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735468370",
-  "_macbinary": "failure"
-}
-{
-  "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735467609",
   "_macbinary": "failure"
 }
 {
@@ -54,13 +109,13 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "miaViz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639475286",
+  "Package": "miaTime",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11851335485",
   "_macbinary": "failure"
 }
 {
-  "Package": "mia",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639474815",
+  "Package": "miaViz",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639475286",
   "_macbinary": "failure"
 }
 {
@@ -71,11 +126,6 @@
 {
   "Package": "UCell",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11623799669",
-  "_macbinary": "failure"
-}
-{
-  "Package": "mitch",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11623800329",
   "_macbinary": "failure"
 }
 {
@@ -99,18 +149,8 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "scrapper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11737073855",
-  "_macbinary": "failure"
-}
-{
   "Package": "scDiagnostics",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606155638",
-  "_macbinary": "failure"
-}
-{
-  "Package": "PolySTest",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605724152",
   "_macbinary": "failure"
 }
 {
@@ -189,11 +229,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "CuratedAtlasQueryR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606811828",
-  "_macbinary": "failure"
-}
-{
   "Package": "concordexR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11607088529",
   "_macbinary": "failure"
@@ -241,11 +276,6 @@
 {
   "Package": "signifinder",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606767322",
-  "_macbinary": "failure"
-}
-{
-  "Package": "TENxIO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606700426",
   "_macbinary": "failure"
 }
 {
@@ -316,10 +346,5 @@
 {
   "Package": "ggmanh",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589107651",
-  "_macbinary": "failure"
-}
-{
-  "Package": "benchdamic",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587113440",
   "_macbinary": "failure"
 }

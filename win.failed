@@ -1,11 +1,76 @@
 {
-  "Package": "SingleCellExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
+  "Package": "IRanges",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11588769597",
   "_winbinary": "failure"
 }
 {
-  "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752859389",
+  "Package": "BiocGenerics",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
+  "_winbinary": "failure"
+}
+{
+  "Package": "SpatialFeatureExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849753481",
+  "_winbinary": "failure"
+}
+{
+  "Package": "sparrow",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849751485",
+  "_winbinary": "failure"
+}
+{
+  "Package": "PolySTest",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11830118742",
+  "_winbinary": "failure"
+}
+{
+  "Package": "mitch",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809999494",
+  "_winbinary": "failure"
+}
+{
+  "Package": "TFutils",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809998823",
+  "_winbinary": "failure"
+}
+{
+  "Package": "rawDiag",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994842",
+  "_winbinary": "failure"
+}
+{
+  "Package": "rawrr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809995260",
+  "_winbinary": "failure"
+}
+{
+  "Package": "alabaster.base",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
+  "_winbinary": "failure"
+}
+{
+  "Package": "beachmat",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790079117",
+  "_winbinary": "failure"
+}
+{
+  "Package": "RegionalST",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790084444",
+  "_winbinary": "failure"
+}
+{
+  "Package": "scrapper",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11771486521",
+  "_winbinary": "failure"
+}
+{
+  "Package": "alabaster.spatial",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11761781234",
+  "_winbinary": "failure"
+}
+{
+  "Package": "SingleCellExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
   "_winbinary": "failure"
 }
 {
@@ -14,23 +79,8 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861121",
-  "_winbinary": "failure"
-}
-{
   "Package": "Voyager",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752862317",
-  "_winbinary": "failure"
-}
-{
-  "Package": "SpatialFeatureExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861786",
-  "_winbinary": "failure"
-}
-{
-  "Package": "RegionalST",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735468370",
   "_winbinary": "failure"
 }
 {
@@ -39,23 +89,18 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735467609",
-  "_winbinary": "failure"
-}
-{
   "Package": "MsBackendRawFileReader",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735466706",
   "_winbinary": "failure"
 }
 {
-  "Package": "miaViz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639475286",
+  "Package": "miaTime",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11851335485",
   "_winbinary": "failure"
 }
 {
-  "Package": "mia",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639474815",
+  "Package": "miaViz",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11639475286",
   "_winbinary": "failure"
 }
 {
@@ -66,11 +111,6 @@
 {
   "Package": "UCell",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11623799669",
-  "_winbinary": "failure"
-}
-{
-  "Package": "mitch",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11623800329",
   "_winbinary": "failure"
 }
 {
@@ -96,16 +136,6 @@
 {
   "Package": "MsBackendMetaboLights",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589360277",
-  "_winbinary": "failure"
-}
-{
-  "Package": "scrapper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11737073855",
-  "_winbinary": "failure"
-}
-{
-  "Package": "PolySTest",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605724152",
   "_winbinary": "failure"
 }
 {
@@ -266,10 +296,5 @@
 {
   "Package": "ggmanh",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589107651",
-  "_winbinary": "failure"
-}
-{
-  "Package": "benchdamic",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587113440",
   "_winbinary": "failure"
 }
