@@ -1,4 +1,34 @@
 {
+  "Package": "multiGSEA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965676218",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "splatter",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965944260",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ViSEAGO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11946074330",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "benchdamic",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11945761781",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "minfi",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11926195274",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ENmix",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11925882685",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "gDRcore",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11866612946",
   "_linuxdevel": "failure"
@@ -6,16 +36,6 @@
 {
   "Package": "BiocGenerics",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "SpatialFeatureExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849753481",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "PolySTest",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11830118742",
   "_linuxdevel": "failure"
 }
 {
@@ -56,11 +76,6 @@
 {
   "Package": "RegionalST",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790084444",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "scrapper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11771486521",
   "_linuxdevel": "failure"
 }
 {
@@ -125,12 +140,12 @@
 }
 {
   "Package": "MsBackendMetaboLights",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589360277",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11927855564",
   "_linuxdevel": "failure"
 }
 {
   "Package": "CoSIA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587449580",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11886608330",
   "_linuxdevel": "failure"
 }
 {
@@ -175,12 +190,7 @@
 }
 {
   "Package": "Moonlight2R",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606932363",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "dreamlet",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587762319",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11907104911",
   "_linuxdevel": "failure"
 }
 {
@@ -210,12 +220,12 @@
 }
 {
   "Package": "Statial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606624854",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11886009198",
   "_linuxdevel": "failure"
 }
 {
   "Package": "coMET",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587754730",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11905756825",
   "_linuxdevel": "failure"
 }
 {
@@ -226,6 +236,11 @@
 {
   "Package": "zenith",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11640478505",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "SpliceWiz",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885869708",
   "_linuxdevel": "failure"
 }
 {
@@ -245,21 +260,11 @@
 }
 {
   "Package": "qmtools",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605658816",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885583856",
   "_linuxdevel": "failure"
 }
 {
   "Package": "seqArchR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606762459",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "MuData",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11698013946",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "netZooR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11590009990",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11947571699",
   "_linuxdevel": "failure"
 }
