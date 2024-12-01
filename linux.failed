@@ -1,6 +1,26 @@
 {
-  "Package": "multiGSEA",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965676218",
+  "Package": "Moonlight2R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12078293805",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "Xeva",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12062094224",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "mCSEA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12062096723",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "RegionalST",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043306848",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ViSEAGO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12023311773",
   "_linuxdevel": "failure"
 }
 {
@@ -9,23 +29,8 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "ViSEAGO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11946074330",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "benchdamic",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11945761781",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "minfi",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11926195274",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "ENmix",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11925882685",
   "_linuxdevel": "failure"
 }
 {
@@ -36,11 +41,6 @@
 {
   "Package": "BiocGenerics",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "mitch",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809999494",
   "_linuxdevel": "failure"
 }
 {
@@ -66,16 +66,6 @@
 {
   "Package": "alabaster.base",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "beachmat",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790079117",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "RegionalST",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790084444",
   "_linuxdevel": "failure"
 }
 {
@@ -120,22 +110,22 @@
 }
 {
   "Package": "immApex",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605726073",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093189211",
   "_linuxdevel": "failure"
 }
 {
   "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605568371",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043973581",
   "_linuxdevel": "failure"
 }
 {
   "Package": "enrichplot",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605564959",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12092993032",
   "_linuxdevel": "failure"
 }
 {
   "Package": "PRONE",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11605636513",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093088903",
   "_linuxdevel": "failure"
 }
 {
@@ -149,23 +139,18 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "tidysbml",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606721416",
-  "_linuxdevel": "failure"
-}
-{
   "Package": "MPAC",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11658890824",
   "_linuxdevel": "failure"
 }
 {
   "Package": "SpotSweeper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606772251",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093813837",
   "_linuxdevel": "failure"
 }
 {
   "Package": "cypress",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587636863",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12063459299",
   "_linuxdevel": "failure"
 }
 {
@@ -175,32 +160,37 @@
 }
 {
   "Package": "faers",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11588932244",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12079853663",
   "_linuxdevel": "failure"
 }
 {
   "Package": "DeProViR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11587747674",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12079716497",
   "_linuxdevel": "failure"
 }
 {
   "Package": "methodical",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11590101986",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12092901802",
   "_linuxdevel": "failure"
 }
 {
-  "Package": "Moonlight2R",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11907104911",
+  "Package": "pgxRpi",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12080969518",
   "_linuxdevel": "failure"
 }
 {
   "Package": "SVMDO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606656909",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093713161",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "mastR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12080808001",
   "_linuxdevel": "failure"
 }
 {
   "Package": "Rcollectl",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11625322028",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12044578633",
   "_linuxdevel": "failure"
 }
 {
@@ -210,7 +200,7 @@
 }
 {
   "Package": "BSgenomeForge",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11586956228",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12078934677",
   "_linuxdevel": "failure"
 }
 {
@@ -230,7 +220,7 @@
 }
 {
   "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11606767322",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093814366",
   "_linuxdevel": "failure"
 }
 {
@@ -245,26 +235,6 @@
 }
 {
   "Package": "PanViz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11590226384",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "omicsViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11589961723",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "pareg",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11590227824",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "qmtools",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885583856",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "seqArchR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11947571699",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12080314333",
   "_linuxdevel": "failure"
 }
