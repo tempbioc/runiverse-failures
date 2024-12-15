@@ -1,4 +1,9 @@
 {
+  "Package": "knowYourCG",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308876953",
+  "_winbinary": "failure"
+}
+{
   "Package": "Biostrings",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12210230048",
   "_winbinary": "failure"
@@ -54,43 +59,18 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "TFutils",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809998823",
+  "Package": "AnVIL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991273",
   "_winbinary": "failure"
 }
 {
   "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994842",
-  "_winbinary": "failure"
-}
-{
-  "Package": "alabaster.base",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
-  "_winbinary": "failure"
-}
-{
-  "Package": "alabaster.spatial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11761781234",
-  "_winbinary": "failure"
-}
-{
-  "Package": "SingleCellExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
-  "_winbinary": "failure"
-}
-{
-  "Package": "beachmat.hdf5",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752858128",
-  "_winbinary": "failure"
-}
-{
-  "Package": "csdR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735463932",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991297",
   "_winbinary": "failure"
 }
 {
   "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735466706",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12218553371",
   "_winbinary": "failure"
 }
 {
@@ -106,11 +86,6 @@
 {
   "Package": "immApex",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093189211",
-  "_winbinary": "failure"
-}
-{
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043973581",
   "_winbinary": "failure"
 }
 {
@@ -210,11 +185,6 @@
 }
 {
   "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093814366",
-  "_winbinary": "failure"
-}
-{
-  "Package": "SpliceWiz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885869708",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468123",
   "_winbinary": "failure"
 }

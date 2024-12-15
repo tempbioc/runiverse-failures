@@ -1,4 +1,19 @@
 {
+  "Package": "regionReport",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12326292746",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "knowYourCG",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308876953",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "SurfR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12326293361",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "Biostrings",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12210230048",
   "_linuxdevel": "failure"
@@ -44,43 +59,23 @@
   "_linuxdevel": "failure"
 }
 {
-  "Package": "TFutils",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809998823",
+  "Package": "AnVIL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991273",
   "_linuxdevel": "failure"
 }
 {
   "Package": "MSnbase",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994610",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12309285104",
   "_linuxdevel": "failure"
 }
 {
   "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994842",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "alabaster.base",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "alabaster.spatial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11761781234",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "SingleCellExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "beachmat.hdf5",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752858128",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991297",
   "_linuxdevel": "failure"
 }
 {
   "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735466706",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12218553371",
   "_linuxdevel": "failure"
 }
 {
@@ -96,11 +91,6 @@
 {
   "Package": "immApex",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093189211",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043973581",
   "_linuxdevel": "failure"
 }
 {
@@ -185,11 +175,6 @@
 }
 {
   "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093814366",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "SpliceWiz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885869708",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468123",
   "_linuxdevel": "failure"
 }

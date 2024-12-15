@@ -1,4 +1,19 @@
 {
+  "Package": "visiumStitched",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12326503390",
+  "_macbinary": "failure"
+}
+{
+  "Package": "knowYourCG",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308876953",
+  "_macbinary": "failure"
+}
+{
+  "Package": "regutools",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12269276927",
+  "_macbinary": "failure"
+}
+{
   "Package": "Biostrings",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12210230048",
   "_macbinary": "failure"
@@ -44,11 +59,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "visiumStitched",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12022978818",
-  "_macbinary": "failure"
-}
-{
   "Package": "TENxIO",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965944835",
   "_macbinary": "failure"
@@ -64,43 +74,23 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "TFutils",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809998823",
+  "Package": "AnVIL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991273",
   "_macbinary": "failure"
 }
 {
   "Package": "MSnbase",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994610",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12309285104",
   "_macbinary": "failure"
 }
 {
   "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11809994842",
-  "_macbinary": "failure"
-}
-{
-  "Package": "alabaster.base",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11790078276",
-  "_macbinary": "failure"
-}
-{
-  "Package": "alabaster.spatial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11761781234",
-  "_macbinary": "failure"
-}
-{
-  "Package": "SingleCellExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752861555",
-  "_macbinary": "failure"
-}
-{
-  "Package": "beachmat.hdf5",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11752858128",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991297",
   "_macbinary": "failure"
 }
 {
   "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11735466706",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12218553371",
   "_macbinary": "failure"
 }
 {
@@ -121,11 +111,6 @@
 {
   "Package": "immApex",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093189211",
-  "_macbinary": "failure"
-}
-{
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043973581",
   "_macbinary": "failure"
 }
 {
@@ -151,11 +136,6 @@
 {
   "Package": "Damsel",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12079583471",
-  "_macbinary": "failure"
-}
-{
-  "Package": "DegCre",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11753893663",
   "_macbinary": "failure"
 }
 {
@@ -185,12 +165,12 @@
 }
 {
   "Package": "gatom",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12081142687",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250467680",
   "_macbinary": "failure"
 }
 {
   "Package": "fenr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093814259",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468081",
   "_macbinary": "failure"
 }
 {
@@ -225,21 +205,6 @@
 }
 {
   "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093814366",
-  "_macbinary": "failure"
-}
-{
-  "Package": "GenomAutomorphism",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12080472012",
-  "_macbinary": "failure"
-}
-{
-  "Package": "mslp",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12081335628",
-  "_macbinary": "failure"
-}
-{
-  "Package": "SpliceWiz",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885869708",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468123",
   "_macbinary": "failure"
 }
