@@ -1,21 +1,86 @@
 {
+  "Package": "knowYourCG",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441817515",
+  "_macbinary": "failure"
+}
+{
+  "Package": "GeneTonic",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424994853",
+  "_macbinary": "failure"
+}
+{
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424641729",
+  "_macbinary": "failure"
+}
+{
+  "Package": "supraHex",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389181164",
+  "_macbinary": "failure"
+}
+{
+  "Package": "netDx",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389194161",
+  "_macbinary": "failure"
+}
+{
+  "Package": "HTSeqGenie",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12407402135",
+  "_macbinary": "failure"
+}
+{
+  "Package": "signifinder",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389197823",
+  "_macbinary": "failure"
+}
+{
+  "Package": "RGMQL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389190237",
+  "_macbinary": "failure"
+}
+{
+  "Package": "paxtoolsr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389183656",
+  "_macbinary": "failure"
+}
+{
+  "Package": "pareg",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389195135",
+  "_macbinary": "failure"
+}
+{
+  "Package": "PanViz",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389196904",
+  "_macbinary": "failure"
+}
+{
+  "Package": "DIAlignR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389192230",
+  "_macbinary": "failure"
+}
+{
+  "Package": "crossmeta",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389184348",
+  "_macbinary": "failure"
+}
+{
+  "Package": "BEARscc",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389191021",
+  "_macbinary": "failure"
+}
+{
+  "Package": "enrichplot",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12335356841",
+  "_macbinary": "failure"
+}
+{
   "Package": "visiumStitched",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12326503390",
   "_macbinary": "failure"
 }
 {
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308876953",
-  "_macbinary": "failure"
-}
-{
   "Package": "regutools",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12269276927",
-  "_macbinary": "failure"
-}
-{
-  "Package": "Biostrings",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12210230048",
   "_macbinary": "failure"
 }
 {
@@ -26,11 +91,6 @@
 {
   "Package": "sparrow",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12167605618",
-  "_macbinary": "failure"
-}
-{
-  "Package": "FLAMES",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12132178886",
   "_macbinary": "failure"
 }
 {
@@ -54,11 +114,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "SpatialFeatureExperiment",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11983711182",
-  "_macbinary": "failure"
-}
-{
   "Package": "TENxIO",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965944835",
   "_macbinary": "failure"
@@ -66,16 +121,6 @@
 {
   "Package": "casper",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965673109",
-  "_macbinary": "failure"
-}
-{
-  "Package": "BiocGenerics",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
-  "_macbinary": "failure"
-}
-{
-  "Package": "AnVIL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991273",
   "_macbinary": "failure"
 }
 {
@@ -111,6 +156,11 @@
 {
   "Package": "immApex",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12093189211",
+  "_macbinary": "failure"
+}
+{
+  "Package": "sangeranalyseR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12386020894",
   "_macbinary": "failure"
 }
 {
@@ -195,16 +245,6 @@
 }
 {
   "Package": "HiCool",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11906344074",
-  "_macbinary": "failure"
-}
-{
-  "Package": "coMET",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11905756825",
-  "_macbinary": "failure"
-}
-{
-  "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468123",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12406175588",
   "_macbinary": "failure"
 }

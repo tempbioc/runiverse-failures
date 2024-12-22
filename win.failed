@@ -1,11 +1,61 @@
 {
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308876953",
+  "Package": "MotifPeeker",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424999860",
   "_winbinary": "failure"
 }
 {
-  "Package": "Biostrings",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12210230048",
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424641729",
+  "_winbinary": "failure"
+}
+{
+  "Package": "supraHex",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389181164",
+  "_winbinary": "failure"
+}
+{
+  "Package": "netDx",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389194161",
+  "_winbinary": "failure"
+}
+{
+  "Package": "signifinder",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389197823",
+  "_winbinary": "failure"
+}
+{
+  "Package": "RGMQL",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389190237",
+  "_winbinary": "failure"
+}
+{
+  "Package": "paxtoolsr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389183656",
+  "_winbinary": "failure"
+}
+{
+  "Package": "pareg",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389195135",
+  "_winbinary": "failure"
+}
+{
+  "Package": "PanViz",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389196904",
+  "_winbinary": "failure"
+}
+{
+  "Package": "DIAlignR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389192230",
+  "_winbinary": "failure"
+}
+{
+  "Package": "crossmeta",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389184348",
+  "_winbinary": "failure"
+}
+{
+  "Package": "BEARscc",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12389191021",
   "_winbinary": "failure"
 }
 {
@@ -16,16 +66,6 @@
 {
   "Package": "sparrow",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12167605618",
-  "_winbinary": "failure"
-}
-{
-  "Package": "MotifPeeker",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12132181691",
-  "_winbinary": "failure"
-}
-{
-  "Package": "FLAMES",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12132178886",
   "_winbinary": "failure"
 }
 {
@@ -49,18 +89,18 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "pathlinkR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441873449",
+  "_winbinary": "failure"
+}
+{
+  "Package": "BERT",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441646398",
+  "_winbinary": "failure"
+}
+{
   "Package": "BiocHail",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11945762575",
-  "_winbinary": "failure"
-}
-{
-  "Package": "BiocGenerics",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11849474230",
-  "_winbinary": "failure"
-}
-{
-  "Package": "AnVIL",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12308991273",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12442908597",
   "_winbinary": "failure"
 }
 {
@@ -89,6 +129,11 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "sangeranalyseR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12386020894",
+  "_winbinary": "failure"
+}
+{
   "Package": "MetMashR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043832965",
   "_winbinary": "failure"
@@ -110,7 +155,7 @@
 }
 {
   "Package": "MIRit",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11876493637",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12365723457",
   "_winbinary": "failure"
 }
 {
@@ -135,7 +180,7 @@
 }
 {
   "Package": "cfTools",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11885005181",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12385550666",
   "_winbinary": "failure"
 }
 {
@@ -165,26 +210,6 @@
 }
 {
   "Package": "HiCool",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11906344074",
-  "_winbinary": "failure"
-}
-{
-  "Package": "ReUseData",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12153886074",
-  "_winbinary": "failure"
-}
-{
-  "Package": "Statial",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11886009198",
-  "_winbinary": "failure"
-}
-{
-  "Package": "coMET",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11905756825",
-  "_winbinary": "failure"
-}
-{
-  "Package": "signifinder",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12250468123",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12406175588",
   "_winbinary": "failure"
 }
