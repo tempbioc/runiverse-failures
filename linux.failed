@@ -1,4 +1,14 @@
 {
+  "Package": "knowYourCG",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12523319276",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "ClustIRR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12499140615",
+  "_linuxdevel": "failure"
+}
+{
   "Package": "SingleR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441847346",
   "_linuxdevel": "failure"
@@ -6,16 +16,6 @@
 {
   "Package": "sesame",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441845031",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441817515",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "GeneTonic",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424994853",
   "_linuxdevel": "failure"
 }
 {
@@ -100,7 +100,12 @@
 }
 {
   "Package": "Xeva",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12062094224",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12524297948",
+  "_linuxdevel": "failure"
+}
+{
+  "Package": "gemma.R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12512592355",
   "_linuxdevel": "failure"
 }
 {
@@ -175,7 +180,7 @@
 }
 {
   "Package": "cypress",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12063459299",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12524209714",
   "_linuxdevel": "failure"
 }
 {
@@ -191,11 +196,6 @@
 {
   "Package": "MIRit",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12365723457",
-  "_linuxdevel": "failure"
-}
-{
-  "Package": "methodical",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12092901802",
   "_linuxdevel": "failure"
 }
 {
@@ -215,7 +215,7 @@
 }
 {
   "Package": "Rcollectl",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12044578633",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12512112723",
   "_linuxdevel": "failure"
 }
 {

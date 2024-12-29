@@ -1,11 +1,11 @@
 {
   "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12441817515",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12523319276",
   "_macbinary": "failure"
 }
 {
-  "Package": "GeneTonic",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424994853",
+  "Package": "ClustIRR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12499140615",
   "_macbinary": "failure"
 }
 {
@@ -100,27 +100,32 @@
 }
 {
   "Package": "Xeva",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12062094224",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12524297948",
+  "_macbinary": "failure"
+}
+{
+  "Package": "gemma.R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12512592355",
   "_macbinary": "failure"
 }
 {
   "Package": "Rarr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12023307412",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12500559075",
   "_macbinary": "failure"
 }
 {
   "Package": "spatialHeatmap",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12023311228",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12500559074",
   "_macbinary": "failure"
 }
 {
   "Package": "TENxIO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965944835",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12451868659",
   "_macbinary": "failure"
 }
 {
   "Package": "casper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11965673109",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12451868718",
   "_macbinary": "failure"
 }
 {
@@ -165,7 +170,7 @@
 }
 {
   "Package": "MetMashR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043832965",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12511659806",
   "_macbinary": "failure"
 }
 {
@@ -175,7 +180,7 @@
 }
 {
   "Package": "immunogenViewer",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12044905754",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12512362119",
   "_macbinary": "failure"
 }
 {
@@ -191,11 +196,6 @@
 {
   "Package": "DeProViR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12079716497",
-  "_macbinary": "failure"
-}
-{
-  "Package": "methodical",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12092901802",
   "_macbinary": "failure"
 }
 {
@@ -230,7 +230,7 @@
 }
 {
   "Package": "Rcollectl",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12044578633",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12512112723",
   "_macbinary": "failure"
 }
 {
@@ -240,7 +240,7 @@
 }
 {
   "Package": "GeoTcgaData",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12043972391",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12511994504",
   "_macbinary": "failure"
 }
 {
