@@ -1,11 +1,36 @@
 {
-  "Package": "geomeTriD",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12607084948",
+  "Package": "getDEE2",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12702430259",
+  "_winbinary": "failure"
+}
+{
+  "Package": "monaLisa",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644606157",
+  "_winbinary": "failure"
+}
+{
+  "Package": "eisaR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644604558",
+  "_winbinary": "failure"
+}
+{
+  "Package": "multiGSEA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644607046",
+  "_winbinary": "failure"
+}
+{
+  "Package": "MotifPeeker",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644606592",
+  "_winbinary": "failure"
+}
+{
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644605249",
   "_winbinary": "failure"
 }
 {
   "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12592237703",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12616156604",
   "_winbinary": "failure"
 }
 {
@@ -14,23 +39,8 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "ClustIRR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12499140615",
-  "_winbinary": "failure"
-}
-{
   "Package": "pathlinkR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12476407220",
-  "_winbinary": "failure"
-}
-{
-  "Package": "MotifPeeker",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424999860",
-  "_winbinary": "failure"
-}
-{
-  "Package": "FLAMES",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12424641729",
   "_winbinary": "failure"
 }
 {
@@ -100,7 +110,7 @@
 }
 {
   "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12218553371",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644620159",
   "_winbinary": "failure"
 }
 {
@@ -404,11 +414,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "QFeatures",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12405892525",
-  "_winbinary": "failure"
-}
-{
   "Package": "MultiBaC",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12532934062",
   "_winbinary": "failure"
@@ -421,11 +426,6 @@
 {
   "Package": "randRotation",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12511775265",
-  "_winbinary": "failure"
-}
-{
-  "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12405733790",
   "_winbinary": "failure"
 }
 {
@@ -520,7 +520,7 @@
 }
 {
   "Package": "hierinf",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12532933926",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12646214501",
   "_winbinary": "failure"
 }
 {
@@ -530,7 +530,7 @@
 }
 {
   "Package": "phantasus",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12533296975",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12646214967",
   "_winbinary": "failure"
 }
 {
