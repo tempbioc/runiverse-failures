@@ -1,4 +1,59 @@
 {
+  "Package": "CBEA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12961395470",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MultiAssayExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12961390427",
+  "_macbinary": "failure"
+}
+{
+  "Package": "SingleMoleculeFootprinting",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12961392591",
+  "_macbinary": "failure"
+}
+{
+  "Package": "TCGAbiolinks",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12961394402",
+  "_macbinary": "failure"
+}
+{
+  "Package": "ReactomeContentService4R",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12961394847",
+  "_macbinary": "failure"
+}
+{
+  "Package": "miaTime",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12942732295",
+  "_macbinary": "failure"
+}
+{
+  "Package": "BiocGenerics",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12921306777",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MsQuality",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12921640527",
+  "_macbinary": "failure"
+}
+{
+  "Package": "BERT",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12921306560",
+  "_macbinary": "failure"
+}
+{
+  "Package": "SpatialFeatureExperiment",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12900585205",
+  "_macbinary": "failure"
+}
+{
+  "Package": "monaLisa",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12879227582",
+  "_macbinary": "failure"
+}
+{
   "Package": "CRISPRseek",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12840162008",
   "_macbinary": "failure"
@@ -6,16 +61,6 @@
 {
   "Package": "pgxRpi",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12840420896",
-  "_macbinary": "failure"
-}
-{
-  "Package": "BERT",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12780521703",
-  "_macbinary": "failure"
-}
-{
-  "Package": "monaLisa",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12644606157",
   "_macbinary": "failure"
 }
 {
@@ -80,22 +125,32 @@
 }
 {
   "Package": "Rarr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12500559075",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12962413469",
   "_macbinary": "failure"
 }
 {
   "Package": "spatialHeatmap",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12500559074",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12962413427",
+  "_macbinary": "failure"
+}
+{
+  "Package": "pRoloc",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12923332660",
   "_macbinary": "failure"
 }
 {
   "Package": "TENxIO",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12451868659",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12881124089",
   "_macbinary": "failure"
 }
 {
   "Package": "casper",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12451868718",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12881123506",
+  "_macbinary": "failure"
+}
+{
+  "Package": "mzR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12850080741",
   "_macbinary": "failure"
 }
 {
@@ -125,7 +180,7 @@
 }
 {
   "Package": "sangeranalyseR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12822735161",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12862054933",
   "_macbinary": "failure"
 }
 {
@@ -140,7 +195,7 @@
 }
 {
   "Package": "MsBackendMetaboLights",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/11927855564",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12850824561",
   "_macbinary": "failure"
 }
 {
@@ -165,7 +220,7 @@
 }
 {
   "Package": "MIRit",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12801431818",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12881124683",
   "_macbinary": "failure"
 }
 {
@@ -225,7 +280,7 @@
 }
 {
   "Package": "seqArchR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12442707959",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12862054343",
   "_macbinary": "failure"
 }
 {
@@ -269,11 +324,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "SingleMoleculeFootprinting",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12542161297",
-  "_macbinary": "failure"
-}
-{
   "Package": "mistyR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12533006744",
   "_macbinary": "failure"
@@ -301,11 +351,6 @@
 {
   "Package": "GeomxTools",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12533472347",
-  "_macbinary": "failure"
-}
-{
-  "Package": "ReactomeContentService4R",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12541695998",
   "_macbinary": "failure"
 }
 {
@@ -350,7 +395,7 @@
 }
 {
   "Package": "pmp",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12489983008",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12944257335",
   "_macbinary": "failure"
 }
 {
@@ -385,12 +430,12 @@
 }
 {
   "Package": "lipidr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12442708068",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12862054500",
   "_macbinary": "failure"
 }
 {
   "Package": "cicero",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12477826605",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12923332784",
   "_macbinary": "failure"
 }
 {
@@ -435,12 +480,7 @@
 }
 {
   "Package": "epivizrChart",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12489983105",
-  "_macbinary": "failure"
-}
-{
-  "Package": "ClusterJudge",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12532403750",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12944257259",
   "_macbinary": "failure"
 }
 {
@@ -509,11 +549,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "TCGAbiolinks",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12406319714",
-  "_macbinary": "failure"
-}
-{
   "Package": "RnBeads",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12801867940",
   "_macbinary": "failure"
@@ -525,7 +560,7 @@
 }
 {
   "Package": "QuartPAC",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12477680701",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12923332748",
   "_macbinary": "failure"
 }
 {
@@ -544,11 +579,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "OncoSimulR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12477680804",
-  "_macbinary": "failure"
-}
-{
   "Package": "CNEr",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12578194994",
   "_macbinary": "failure"
@@ -560,7 +590,7 @@
 }
 {
   "Package": "bioassayR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12822319866",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12862054792",
   "_macbinary": "failure"
 }
 {
@@ -585,7 +615,7 @@
 }
 {
   "Package": "MLP",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12489890309",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12944257658",
   "_macbinary": "failure"
 }
 {
@@ -601,5 +631,10 @@
 {
   "Package": "VanillaICE",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12511889996",
+  "_macbinary": "failure"
+}
+{
+  "Package": "annotate",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/12902301669",
   "_macbinary": "failure"
 }
