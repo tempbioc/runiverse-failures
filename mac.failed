@@ -1,16 +1,41 @@
 {
-  "Package": "ELViS",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13603780595",
+  "Package": "netZooR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13731077819",
+  "_macbinary": "failure"
+}
+{
+  "Package": "bugsigdbr",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13731065585",
+  "_macbinary": "failure"
+}
+{
+  "Package": "alabaster.matrix",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13690549912",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MSnbase",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13697441817",
+  "_macbinary": "failure"
+}
+{
+  "Package": "OncoSimulR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13671548792",
+  "_macbinary": "failure"
+}
+{
+  "Package": "scater",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13645624013",
+  "_macbinary": "failure"
+}
+{
+  "Package": "rGREAT",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13627476720",
   "_macbinary": "failure"
 }
 {
   "Package": "scp",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13586120845",
-  "_macbinary": "failure"
-}
-{
-  "Package": "netZooR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13561952524",
   "_macbinary": "failure"
 }
 {
@@ -49,11 +74,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "pgxRpi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13299732929",
-  "_macbinary": "failure"
-}
-{
   "Package": "SpatialFeatureExperiment",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13282022617",
   "_macbinary": "failure"
@@ -69,11 +89,6 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "scater",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13086854402",
-  "_macbinary": "failure"
-}
-{
   "Package": "omicsViewer",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13600649452",
   "_macbinary": "failure"
@@ -84,18 +99,23 @@
   "_macbinary": "failure"
 }
 {
+  "Package": "scQTLtools",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13612641486",
+  "_macbinary": "failure"
+}
+{
   "Package": "eisaR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13171185040",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13733419992",
   "_macbinary": "failure"
 }
 {
   "Package": "knowYourCG",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13127684367",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13690557527",
   "_macbinary": "failure"
 }
 {
   "Package": "rawrr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13107440946",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13669373373",
   "_macbinary": "failure"
 }
 {
@@ -119,23 +139,18 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "MSnbase",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13255678996",
-  "_macbinary": "failure"
-}
-{
   "Package": "rawDiag",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13255069277",
   "_macbinary": "failure"
 }
 {
   "Package": "MsBackendRawFileReader",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13171351623",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13733558345",
   "_macbinary": "failure"
 }
 {
-  "Package": "sangeranalyseR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13406347335",
+  "Package": "mnem",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13668045913",
   "_macbinary": "failure"
 }
 {
@@ -155,7 +170,7 @@
 }
 {
   "Package": "DeProViR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13558767662",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13624648322",
   "_macbinary": "failure"
 }
 {
@@ -180,7 +195,7 @@
 }
 {
   "Package": "BSgenomeForge",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13067389409",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13612640280",
   "_macbinary": "failure"
 }
 {
@@ -206,11 +221,6 @@
 {
   "Package": "seqArchR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13406347317",
-  "_macbinary": "failure"
-}
-{
-  "Package": "PSMatch",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13172720016",
   "_macbinary": "failure"
 }
 {
@@ -345,7 +355,17 @@
 }
 {
   "Package": "plyranges",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13172567894",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13734345379",
+  "_macbinary": "failure"
+}
+{
+  "Package": "martini",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13647271220",
+  "_macbinary": "failure"
+}
+{
+  "Package": "amplican",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13612458808",
   "_macbinary": "failure"
 }
 {
@@ -361,11 +381,6 @@
 {
   "Package": "epivizrChart",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13480260648",
-  "_macbinary": "failure"
-}
-{
-  "Package": "IsoformSwitchAnalyzeR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13096104902",
   "_macbinary": "failure"
 }
 {
@@ -440,7 +455,12 @@
 }
 {
   "Package": "ensembldb",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13129416453",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13692285118",
+  "_macbinary": "failure"
+}
+{
+  "Package": "TRONCO",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13734344958",
   "_macbinary": "failure"
 }
 {
@@ -464,13 +484,8 @@
   "_macbinary": "failure"
 }
 {
-  "Package": "OncoSimulR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13470080619",
-  "_macbinary": "failure"
-}
-{
   "Package": "CNEr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13085916746",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13624449751",
   "_macbinary": "failure"
 }
 {
@@ -491,6 +506,11 @@
 {
   "Package": "NetSAM",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13352206934",
+  "_macbinary": "failure"
+}
+{
+  "Package": "MethylSeekR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13734345352",
   "_macbinary": "failure"
 }
 {
