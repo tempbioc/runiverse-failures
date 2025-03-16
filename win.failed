@@ -1,11 +1,31 @@
 {
-  "Package": "netZooR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13731077819",
+  "Package": "coMET",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13869023567",
   "_winbinary": "failure"
 }
 {
-  "Package": "bugsigdbr",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13731065585",
+  "Package": "biomaRt",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13869015329",
+  "_winbinary": "failure"
+}
+{
+  "Package": "MIRit",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13869016791",
+  "_winbinary": "failure"
+}
+{
+  "Package": "synapter",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13813556746",
+  "_winbinary": "failure"
+}
+{
+  "Package": "FLAMES",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13779713165",
+  "_winbinary": "failure"
+}
+{
+  "Package": "netZooR",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13731077819",
   "_winbinary": "failure"
 }
 {
@@ -16,11 +36,6 @@
 {
   "Package": "OncoSimulR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13671548792",
-  "_winbinary": "failure"
-}
-{
-  "Package": "rGREAT",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13627476720",
   "_winbinary": "failure"
 }
 {
@@ -49,13 +64,13 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "FLAMES",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13341329216",
+  "Package": "glmGamPoi",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13364058776",
   "_winbinary": "failure"
 }
 {
-  "Package": "glmGamPoi",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13364058776",
+  "Package": "RnBeads",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13853462607",
   "_winbinary": "failure"
 }
 {
@@ -110,7 +125,7 @@
 }
 {
   "Package": "rawDiag",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13255069277",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13826254931",
   "_winbinary": "failure"
 }
 {
@@ -125,7 +140,7 @@
 }
 {
   "Package": "plyxp",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13277552969",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13849405572",
   "_winbinary": "failure"
 }
 {
@@ -139,13 +154,8 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "MIRit",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13428887616",
-  "_winbinary": "failure"
-}
-{
   "Package": "dar",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13235561594",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13804905261",
   "_winbinary": "failure"
 }
 {
@@ -194,8 +204,8 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "coMET",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13362403807",
+  "Package": "octad",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13870081297",
   "_winbinary": "failure"
 }
 {
@@ -206,6 +216,11 @@
 {
   "Package": "seqArchR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13406347317",
+  "_winbinary": "failure"
+}
+{
+  "Package": "RiboCrypt",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13828284600",
   "_winbinary": "failure"
 }
 {
@@ -241,11 +256,6 @@
 {
   "Package": "NeuCA",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13602080146",
-  "_winbinary": "failure"
-}
-{
-  "Package": "decoupleR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13277553282",
   "_winbinary": "failure"
 }
 {
@@ -324,11 +334,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "rhdf5client",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13299932190",
-  "_winbinary": "failure"
-}
-{
   "Package": "amplican",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13612458808",
   "_winbinary": "failure"
@@ -389,11 +394,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "RnBeads",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13341907451",
-  "_winbinary": "failure"
-}
-{
   "Package": "TRONCO",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13734344958",
   "_winbinary": "failure"
@@ -421,11 +421,6 @@
 {
   "Package": "AnnotationHub",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13559591456",
-  "_winbinary": "failure"
-}
-{
-  "Package": "iPAC",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/13428731591",
   "_winbinary": "failure"
 }
 {
