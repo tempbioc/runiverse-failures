@@ -1,6 +1,21 @@
 {
-  "Package": "scQTLtools",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14502647773",
+  "Package": "CircSeqAlignTk",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14612248097",
+  "_winbinary": "failure"
+}
+{
+  "Package": "AnnotationHub",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14614458965",
+  "_winbinary": "failure"
+}
+{
+  "Package": "gDRimport",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14641656245",
+  "_winbinary": "failure"
+}
+{
+  "Package": "gDRcore",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14656874460",
   "_winbinary": "failure"
 }
 {
@@ -55,7 +70,7 @@
 }
 {
   "Package": "MIRit",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14497394120",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14568828432",
   "_winbinary": "failure"
 }
 {
@@ -111,16 +126,6 @@
 {
   "Package": "Statial",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14511965047",
-  "_winbinary": "failure"
-}
-{
-  "Package": "octad",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14499806023",
-  "_winbinary": "failure"
-}
-{
-  "Package": "CircSeqAlignTk",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14500565902",
   "_winbinary": "failure"
 }
 {
@@ -180,7 +185,7 @@
 }
 {
   "Package": "FLAMES",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14485251699",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14642877632",
   "_winbinary": "failure"
 }
 {
@@ -219,6 +224,11 @@
   "_winbinary": "failure"
 }
 {
+  "Package": "scRepertoire",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14634944433",
+  "_winbinary": "failure"
+}
+{
   "Package": "Herper",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14495060966",
   "_winbinary": "failure"
@@ -244,11 +254,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "struct",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14532841929",
-  "_winbinary": "failure"
-}
-{
   "Package": "waddR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14530280215",
   "_winbinary": "failure"
@@ -261,6 +266,11 @@
 {
   "Package": "CNVfilteR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14532838967",
+  "_winbinary": "failure"
+}
+{
+  "Package": "ReactomeGSA",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14568828539",
   "_winbinary": "failure"
 }
 {
@@ -285,7 +295,7 @@
 }
 {
   "Package": "cicero",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14500562766",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14683971942",
   "_winbinary": "failure"
 }
 {
@@ -320,7 +330,7 @@
 }
 {
   "Package": "DEP",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14509633719",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14683971999",
   "_winbinary": "failure"
 }
 {
@@ -364,11 +374,6 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "PureCN",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14532821325",
-  "_winbinary": "failure"
-}
-{
   "Package": "GenVisR",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14486103351",
   "_winbinary": "failure"
@@ -394,23 +399,13 @@
   "_winbinary": "failure"
 }
 {
-  "Package": "COMPASS",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14500658030",
-  "_winbinary": "failure"
-}
-{
   "Package": "BiocStyle",
   "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14476561247",
   "_winbinary": "failure"
 }
 {
-  "Package": "AnnotationHub",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14475431743",
-  "_winbinary": "failure"
-}
-{
   "Package": "eiR",
-  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14500916817",
+  "_buildurl": "https://github.com/r-universe/bioc/actions/runs/14568828333",
   "_winbinary": "failure"
 }
 {
